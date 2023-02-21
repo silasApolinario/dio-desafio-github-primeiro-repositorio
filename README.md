@@ -1,1 +1,2 @@
-# Desafio DIO de Projeto sobre crirar repositório Git/Github
+# Desafio DIO de Projeto Git/Github 📝
+Aqui descrevo um pequeno passo a passo de como enviar um arquivo para um repositório no Git/GitHub.
